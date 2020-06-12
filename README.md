@@ -1,0 +1,1 @@
+Scrape.ipynb has functions to scrape pages from https://www.interpol.int/How-we-work/Notices/View-Red-Notices and output a json file with all attributes. data.json is sample output of the web crawler for retrieval of 2 pages of information.
